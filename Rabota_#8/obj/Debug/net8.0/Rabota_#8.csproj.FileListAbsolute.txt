@@ -1,0 +1,14 @@
+C:\Users\PROFI\source\repos\Rabota_#8\obj\Debug\net8.0\Rabota_#8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROFI\source\repos\Rabota_#8\obj\Debug\net8.0\Rabota_#8.AssemblyInfoInputs.cache
+C:\Users\PROFI\source\repos\Rabota_#8\obj\Debug\net8.0\Rabota_#8.AssemblyInfo.cs
+C:\Users\PROFI\source\repos\Rabota_#8\obj\Debug\net8.0\Rabota_#8.csproj.CoreCompileInputs.cache
+C:\Users\PROFI\source\repos\Rabota_#8\bin\Debug\net8.0\Rabota_#8.exe
+C:\Users\PROFI\source\repos\Rabota_#8\bin\Debug\net8.0\Rabota_#8.deps.json
+C:\Users\PROFI\source\repos\Rabota_#8\bin\Debug\net8.0\Rabota_#8.runtimeconfig.json
+C:\Users\PROFI\source\repos\Rabota_#8\bin\Debug\net8.0\Rabota_#8.dll
+C:\Users\PROFI\source\repos\Rabota_#8\bin\Debug\net8.0\Rabota_#8.pdb
+C:\Users\PROFI\source\repos\Rabota_#8\obj\Debug\net8.0\Rabota_#8.dll
+C:\Users\PROFI\source\repos\Rabota_#8\obj\Debug\net8.0\refint\Rabota_#8.dll
+C:\Users\PROFI\source\repos\Rabota_#8\obj\Debug\net8.0\Rabota_#8.pdb
+C:\Users\PROFI\source\repos\Rabota_#8\obj\Debug\net8.0\Rabota_#8.genruntimeconfig.cache
+C:\Users\PROFI\source\repos\Rabota_#8\obj\Debug\net8.0\ref\Rabota_#8.dll
